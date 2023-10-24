@@ -1,16 +1,26 @@
-### Hi there 👋
+💻 Software Engineer Student 🧑‍💻
 
-<!--
-**daniel-vl7/daniel-vl7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr>
 
-Here are some ideas to get you started:
+## 🚀💻 Technologies (Basic knowledge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <u> Languages: </u>
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,cs,js,matlab)](https://skillicons.dev)
+
+### <u> Frontend Development Technologies and Tools: </u>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,angular,vue,bootstrap,figma)](https://skillicons.dev)
+
+### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,php,docker,azure,netlify,firebase)](https://skillicons.dev)
+
+### <u> Version Control and Tools:</u>
+
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+
+<i> Recently, I'm also learning: </i>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
