@@ -2,7 +2,7 @@
 
 <hr>
 
-## 🚀💻 Technologies (Basic knowledge)
+## 🚀💻 Technologies (Basic knowledge & learning)
 
 ### <u> Languages: </u>
 
