@@ -14,7 +14,7 @@
 
 ### <u> Backend Development + Database + DevOps + Deployment Technologies & Tools: </u>
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,dotnet,mongodb,mysql,php,docker,azure,netlify,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,mysql,docker,firebase)](https://skillicons.dev)
 
 ### <u> Version Control and Tools:</u>
 
